@@ -1,0 +1,37 @@
+h2 + p {
+    font-weight: bold;
+}
+
+h2 ~ p {
+    padding-left: 20px;
+    font-style: oblique;
+    color: blueviolet;
+    border-style: double;
+    background-color: yellow;
+}
+#d1{
+    font-weight: bolder;
+    color: cadetblue;
+    font-size: 30pt;
+    
+}
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+
+}
+.box:hover{
+    background-color: green;
+    color: bisque;
+}
+.box:active{
+    height: 120px;
+    width: 120px;
+    font-size: 25pt;
+}
+input:focus{
+
+    font-size: 30pt;
+    width: 200px;
+}

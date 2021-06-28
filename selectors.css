@@ -1,0 +1,36 @@
+*{
+    font-style: italic;
+    font-size: 20pt;
+}
+
+div{
+    color: darkgreen;
+}
+
+p{
+   color: deeppink;
+}
+.big{
+    font-size: 40pt;
+}
+.bold{
+    font-weight: bold;
+}
+#one{
+    background-color:orange;
+    padding-left: 40px;
+}
+#two{
+    background-color: chartreuse;
+    padding-left: 40px;
+}
+input[type ="text"]{
+         font-style: normal;
+         font-size: 20pt;
+         width: 200px;
+         color: blue;
+         background-color: aqua;
+}
+#h1{
+    font-style: normal;
+}
